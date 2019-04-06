@@ -1,2 +1,2 @@
-# machine-learning
-This is a machine learning repository
+# Coursera Capstone
+This is a data science repository
